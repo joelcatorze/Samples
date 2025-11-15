@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6ZTd11tlP7g" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Around the World with South Bird</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Around_the_World_with_South_Bird_ORG">
+    <organization identifier="Around_the_World_with_South_Bird_ORG">
+      <title>Around the World with South Bird</title>
+      <item identifier="Around_the_World_with_preposition_SCO" isvisible="true" identifierref="__6ZTd11tlP7g_RES">
+        <title>Around the World with South Bird</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ZTd11tlP7g_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/661fdU9aWD3.png" />
+      <file href="mobile/5pJhtRT63Vp.png" />
+      <file href="mobile/5iAG9OifXXp.gif" />
+      <file href="mobile/6IsjtKrK9jy.png" />
+      <file href="mobile/5u8PeYhvbQ9.png" />
+      <file href="mobile/6SG0X1a92cB.png" />
+      <file href="mobile/6fvJXjVitil.png" />
+      <file href="mobile/5a9hzNOvuqS.png" />
+      <file href="mobile/6i7U85fRetA_X.png" />
+      <file href="mobile/67jdPHh0CIf.png" />
+      <file href="mobile/6BaGfQGd4Rn.png" />
+      <file href="mobile/5r61b9zlkus.png" />
+      <file href="mobile/6UXGsTwXjdj.gif" />
+      <file href="mobile/64oudfUbp6u.png" />
+      <file href="mobile/5onLeYrxRRd.png" />
+      <file href="mobile/6RmOF3h5HjN.png" />
+      <file href="mobile/5xrXqoG37a8.png" />
+      <file href="mobile/6gSq0RseYr9.png" />
+      <file href="story_content/video_6IwW5VUnLZ9_9_160_214x260.mp4" />
+      <file href="mobile/poster_65Ty3I7WjGe_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5bYMLRrr4Sk_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6SIXiX7WOrE_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6o1aezSaW9h_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6jm5Fym1L83_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6lPdLN0zOBu_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6fJuQ7Qn2C0_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6lcQReZJGlF_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6WByoBHX6jy_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6QSHjxPAM6t_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6EB9G0iJWbJ_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5tMBOpfMcFK_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6gif0ATQ06y_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5zcYG5unVi6_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5hWgRddifz3_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6iPjNKLUixC_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6JU6lSzw7Wf_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6dp0sw65gxV_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6FiblYhVyRy_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5og3u1PSFNf_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5dcR7soShuQ_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6Hwxhdyzq57_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_6a0ds5y9nrM_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_60xx1gPrcJs_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="mobile/poster_5mvxyoYM1qT_video_6IwW5VUnLZ9_9_160_214x260.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ch6O4ITSga.js" />
+      <file href="html5/data/js/5e9mTwQarN3.js" />
+      <file href="html5/data/js/5edRpIkeBah.js" />
+      <file href="html5/data/js/5kRCrGmzEEG.js" />
+      <file href="html5/data/js/5nLzbtTCaX0.js" />
+      <file href="html5/data/js/5nZpOc64f0f.js" />
+      <file href="html5/data/js/5sm27LTf2C0.js" />
+      <file href="html5/data/js/5u77YrELEv4.js" />
+      <file href="html5/data/js/5uaPMUmlaCc.js" />
+      <file href="html5/data/js/5v2xCDO40lK.js" />
+      <file href="html5/data/js/5Ym1FnJ9b2o.js" />
+      <file href="html5/data/js/62aTaoHADmB.js" />
+      <file href="html5/data/js/630BHvfCae1.js" />
+      <file href="html5/data/js/63WYsMaX39C.js" />
+      <file href="html5/data/js/6AB7ANgNmA1.js" />
+      <file href="html5/data/js/6bwsH0XDm1r.js" />
+      <file href="html5/data/js/6c1qow9wkjZ.js" />
+      <file href="html5/data/js/6deBvTHz8pp.js" />
+      <file href="html5/data/js/6HIlecY9FEP.js" />
+      <file href="html5/data/js/6lEY8LJFkF7.js" />
+      <file href="html5/data/js/6mdl6m4afSX.js" />
+      <file href="html5/data/js/6pNrzv8GEI8.js" />
+      <file href="html5/data/js/6rRHKyH5phZ.js" />
+      <file href="html5/data/js/6VgXaJDtWKu.js" />
+      <file href="html5/data/js/6VU0GlvmVwb.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
